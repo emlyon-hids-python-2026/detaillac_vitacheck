@@ -1,6 +1,6 @@
 # Python Programming - Case Study: Diabetes Screening
 
-- **Authors:** Cao Tri DO <do@em-lyon.com>
+- **Authors:** Constance de Taillac <constance.bartouilh@edu.em-lyon.com>
 - **Version:** 2026-11
 
 ## 1. Context

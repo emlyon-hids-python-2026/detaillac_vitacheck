@@ -1,4 +1,3 @@
-## CONSTANCE
 # VitaCheck - Diabetes Screening
 
 Case study of the Python Programming course (course 06, emlyon business school).
@@ -193,4 +192,4 @@ More in [docs/project_documentation/development.md](docs/project_documentation/d
 
 ## Author
 
-Cao Tri DO - [do@em-lyon.com](mailto:do@em-lyon.com)
+Constance de Taillac - [constance.bartouilh@edu.em-lyon.com](mailto:constance.bartouilh@edu.em-lyon.com)
